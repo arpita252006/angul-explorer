@@ -271,18 +271,6 @@ export const destinations: Destination[] = [
     mapQuery: "Deulajhari+Hot+Spring+Angul+Odisha",
   },
   {
-    id: "samaleswari-temple-angul",
-    name: "Samaleswari Temple Angul",
-    category: "Temple",
-    rating: 4.3,
-    ratingCount: 62,
-    shortDescription: "A revered temple dedicated to Goddess Samaleswari in Angul.",
-    description: "Samaleswari Temple in Angul is dedicated to Goddess Samaleswari, one of the most worshipped deities in western Odisha. The temple serves as an important spiritual center for the local community, hosting regular pujas and festivals throughout the year. The architecture follows traditional Odishan temple design with a beautifully adorned sanctum and a spacious prayer hall. During Navratri and other major Hindu festivals, the temple is beautifully decorated and attracts large crowds of devotees. The peaceful atmosphere and the devotion of the worshippers create a deeply spiritual experience for visitors.",
-    image: img("samaleswari-temple-angul/1"),
-    gallery: [img("samaleswari-temple-angul/2"), img("samaleswari-temple-angul/3"), img("samaleswari-temple-angul/4")],
-    mapQuery: "Samaleswari+Temple+Angul+Odisha",
-  },
-  {
     id: "chendipada-hills",
     name: "Chendipada Hills",
     category: "Nature",
