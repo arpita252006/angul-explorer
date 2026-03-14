@@ -46,3 +46,5 @@ export default function DestinationCard({ destination, variant = "grid" }: Props
     </Link>
   );
 }
+
+
